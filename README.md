@@ -1,6 +1,6 @@
 # Leveraging Motion Priors in Videos for Improving Human Segmentation
 
-This kind of self-supervised method can cooperate with Domain Adaptation. 
+This kind of weakly-supervised method can cooperate with Domain Adaptation. 
 
 It's use data augumentation approch to improving human segmentation.
 
